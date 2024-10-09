@@ -1,0 +1,1 @@
+//do using gtack first then do it using array
